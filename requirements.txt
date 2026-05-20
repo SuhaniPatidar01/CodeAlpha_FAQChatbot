@@ -1,7 +1,7 @@
 streamlit
-numpy
 scikit-learn
-scipy
+numpy
 pandas
+scipy
 joblib
 threadpoolctl
